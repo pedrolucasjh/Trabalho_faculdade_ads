@@ -1,0 +1,2 @@
+AURA QUESTÃO 1: LETRA: b) Binário e Texto
+AURA QUESTÃO 2: LETRA: a) open("nome_arquivo", "w")

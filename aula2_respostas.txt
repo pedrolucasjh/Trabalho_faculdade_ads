@@ -1,0 +1,8 @@
+AURA QUESTÃO 1: LETRA d) Feedback constante do usuário.
+AURA QUESTÃO 2: LETRA a) A escolha de um framework sempre deve levar em consideração as necessidades do projeto que
+se deseja implementar. Portanto essa escolha tem que estar baseada nas bibliotecas,
+documentação disponível e a linguagem de programação disponibilizadas para desenvolver o
+projeto.
+
+
+
